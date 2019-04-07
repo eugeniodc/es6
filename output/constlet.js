@@ -1,4 +1,7 @@
 "use strict";
 
-var nombre = "Eugenio";
-console.log("Hola mundo " + nombre);
+// Caracteristicas 1
+var nombre = 'Carlos';
+var colores = ['rojo', 'verde '];
+colores.push('Azul');
+console.log(colores);

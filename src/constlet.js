@@ -1,3 +1,8 @@
-let nombre="Eugenio";
+// Caracteristicas 1
+const nombre= 'Carlos';
 
-console.log("Hola mundo " + nombre);
+const colores = ['rojo', 'verde '];
+
+colores.push('Azul');
+
+console.log(colores);
